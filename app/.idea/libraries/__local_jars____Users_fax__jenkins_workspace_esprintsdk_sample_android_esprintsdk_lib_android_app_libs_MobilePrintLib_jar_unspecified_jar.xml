@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:/Users/fax/.jenkins/workspace/esprintsdk-sample-android/esprintsdk-lib-android/app/libs/MobilePrintLib.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../esprintsdk-lib-android/app/libs/MobilePrintLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

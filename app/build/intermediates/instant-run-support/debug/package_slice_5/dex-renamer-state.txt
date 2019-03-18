@@ -1,0 +1,4 @@
+#Sun Mar 17 13:34:22 CDT 2019
+base.0=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

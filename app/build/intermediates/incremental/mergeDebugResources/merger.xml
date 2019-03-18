@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="C:\Users\shobh\.android\build-cache\5af8ece13de4fa3aa2a22b59140ecd0865874817\output\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res"/><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\build\generated\res\rs\debug"/><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\debug\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\shobh\.android\build-cache\5af8ece13de4fa3aa2a22b59140ecd0865874817\output\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res"><file name="activity_bleprinterlist" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_bleprinterlist.xml" qualifiers="" type="layout"/><file name="activity_filelist" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_filelist.xml" qualifiers="" type="layout"/><file name="activity_manage_template" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_manage_template.xml" qualifiers="" type="layout"/><file name="activity_mw_bluetooth_preference" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_mw_bluetooth_preference.xml" qualifiers="" type="layout"/><file name="activity_netprinterlist" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_netprinterlist.xml" qualifiers="" type="layout"/><file name="activity_printer_preference" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_printer_preference.xml" qualifiers="" type="layout"/><file name="activity_print_image" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_print_image.xml" qualifiers="" type="layout"/><file name="activity_print_pdf" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_print_pdf.xml" qualifiers="" type="layout"/><file name="activity_print_template" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_print_template.xml" qualifiers="" type="layout"/><file name="activity_remove_template" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_remove_template.xml" qualifiers="" type="layout"/><file name="activity_savefile_path" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_savefile_path.xml" qualifiers="" type="layout"/><file name="activity_startmenu" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_startmenu.xml" qualifiers="" type="layout"/><file name="activity_transfer_pdz" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\activity_transfer_pdz.xml" qualifiers="" type="layout"/><file name="listitem_tempalte" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\listitem_tempalte.xml" qualifiers="" type="layout"/><file name="preference_cutome_layout" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\preference_cutome_layout.xml" qualifiers="" type="layout"/><file name="printstuff" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\printstuff.xml" qualifiers="" type="layout"/><file name="xml_list_item" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\layout\xml_list_item.xml" qualifiers="" type="layout"/><file name="mainmenu_option" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\menu\mainmenu_option.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="rj2030_50mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2030_50mm.bin" qualifiers="" type="raw"/><file name="rj2030_58mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2030_58mm.bin" qualifiers="" type="raw"/><file name="rj2050_50mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2050_50mm.bin" qualifiers="" type="raw"/><file name="rj2050_58mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2050_58mm.bin" qualifiers="" type="raw"/><file name="rj2140_50x85mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2140_50x85mm.bin" qualifiers="" type="raw"/><file name="rj2140_58mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2140_58mm.bin" qualifiers="" type="raw"/><file name="rj2150_50x85mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2150_50x85mm.bin" qualifiers="" type="raw"/><file name="rj2150_58mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj2150_58mm.bin" qualifiers="" type="raw"/><file name="rj3050ai_76mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj3050ai_76mm.bin" qualifiers="" type="raw"/><file name="rj3050_76mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj3050_76mm.bin" qualifiers="" type="raw"/><file name="rj3150ai_76mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj3150ai_76mm.bin" qualifiers="" type="raw"/><file name="rj3150ai_76mm44mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj3150ai_76mm44mm.bin" qualifiers="" type="raw"/><file name="rj3150_76mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj3150_76mm.bin" qualifiers="" type="raw"/><file name="rj3150_76mm44mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj3150_76mm44mm.bin" qualifiers="" type="raw"/><file name="rj4030ai_102mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4030ai_102mm.bin" qualifiers="" type="raw"/><file name="rj4030ai_102mm152mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4030ai_102mm152mm.bin" qualifiers="" type="raw"/><file name="rj4030_102mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4030_102mm.bin" qualifiers="" type="raw"/><file name="rj4030_102mm152mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4030_102mm152mm.bin" qualifiers="" type="raw"/><file name="rj4040_102mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4040_102mm.bin" qualifiers="" type="raw"/><file name="rj4040_102mm152mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4040_102mm152mm.bin" qualifiers="" type="raw"/><file name="rj4230b_102mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4230b_102mm.bin" qualifiers="" type="raw"/><file name="rj4230b_102mm152mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4230b_102mm152mm.bin" qualifiers="" type="raw"/><file name="rj4230b_58mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4230b_58mm.bin" qualifiers="" type="raw"/><file name="rj4250wb_102mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4250wb_102mm.bin" qualifiers="" type="raw"/><file name="rj4250wb_102mm152mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4250wb_102mm152mm.bin" qualifiers="" type="raw"/><file name="rj4250wb_58mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\rj4250wb_58mm.bin" qualifiers="" type="raw"/><file name="td2020_40mm40mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td2020_40mm40mm.bin" qualifiers="" type="raw"/><file name="td2020_57mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td2020_57mm.bin" qualifiers="" type="raw"/><file name="td2120_40mm40mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td2120_40mm40mm.bin" qualifiers="" type="raw"/><file name="td2120_57mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td2120_57mm.bin" qualifiers="" type="raw"/><file name="td2130_40mm40mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td2130_40mm40mm.bin" qualifiers="" type="raw"/><file name="td2130_57mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td2130_57mm.bin" qualifiers="" type="raw"/><file name="td4000_102mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td4000_102mm.bin" qualifiers="" type="raw"/><file name="td4000_102mmx152mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td4000_102mmx152mm.bin" qualifiers="" type="raw"/><file name="td4100n_102mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td4100n_102mm.bin" qualifiers="" type="raw"/><file name="td4100n_102mmx152mm" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\raw\td4100n_102mmx152mm.bin" qualifiers="" type="raw"/><file path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\values\colors.xml" qualifiers=""><drawable name="table_background">#444</drawable><drawable name="divider">#999</drawable></file><file path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\values\strings.xml" qualifiers=""><string name="dash_line_title">Dash Line Print</string><string name="is_peel_mode_title">PeelMode</string><string name="text_wifi_setting">WiFi settings</string><string name="progress_dialog_message_getting_bluetooth_setting">Getting Bluetooth settings </string><string-array name="halfToningValues">
+        <item>THRESHOLD</item>
+        <item>PATTERNDITHER</item>
+        <item>ERRORDIFFUSION</item>
+    </string-array><string name="mode9_value">Select the Mode9</string><string-array name="pj_paper_kind_values">
+        <item>PJ_ROLL</item>
+        <item>PJ_CUT_PAPER</item>
+    </string-array><string name="progress_dialog_message_transfer_start">Transfer Start…</string><string name="check_print_end_title">Check the print end</string><string name="text_template_text">Text:</string><string name="raw_mode_title">Raw mode</string><string name="text_print_jpeg_halftone">	JPEG Printing Halftone(BT/USB)	</string><string name="progress_dialog_message_printed">The printing process was completed </string><string name="folder_name">Folder Name</string><string name="otherSettings_title">Other Settings</string><string name="text_print_image">Print Image/Prn File</string><string name="print_quality_value">Select the quality</string><string name="rj_density_value">Select density</string><string name="text_not_exit_template">Template does not exit.</string><string-array name="bootmode_array">
+        <item>On by default	</item>
+        <item>Off by default	</item>
+        <item>Keep Current State	</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="save_file_title">Save the file</string><string name="button_network_settings">Network Settings</string><string-array name="pj_speed_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item/>
+    </string-array><string name="pj_speed_value">Select the PJ speed</string><string name="text_template_Index">Index:</string><string name="progress_dialog_message_sendingPrintingData">Sending the data…</string><string name="is_rotate180_title">Rotate 180</string><string name="receiveTimeout_title">Reception waiting time</string><string name="cut_settings_title">Cut Settings</string><string name="close_message">Close Application</string><string name="scale_value_value">Select the scale value </string><string name="port_title">Port</string><string name="about_label">About</string><string name="button_transfer_template">Transfer Template</string><string name="sendTimeout_title">Transmission waiting time</string><string-array name="yes_no_entries">
+        <item>yes</item>
+        <item>no</item>
+    </string-array><string name="address_value">Set the number of ip address </string><string name="battery_weak">Weak</string><string name="tethering_title">Tethering</string><string name="halftoning_title">Half toning</string><string-array name="halfToning">
+        <item>Threshold</item>
+        <item>Pattern dithering</item>
+        <item>Error diffusion</item>
+    </string-array><string name="text_net_wepkey">	WEP Key(Write only)	</string><string-array name="feed_mode">
+        <item>no feed（roll）</item>
+        <item>fixed page size feed（roll）</item>
+        <item>one page feed（cut paper）</item>
+        <item>one page feed（roll with mark）</item>
+    </string-array><string-array name="check_print_end">
+        <item>Not check</item>
+        <item>Skip last page</item>
+        <item>Check</item>
+    </string-array><string name="custom_feed_title">Feed Paper Setting</string><string name="text_remove_template">Remove Template File</string><string name="number_of_copies_value">Set the number of copies </string><string-array name="pj_speed_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>@string/text_no_data</item>
+    </string-array><string-array name="chanel_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="overwrite_title">Overwrite the file</string><string name="image_thresholding_value">Select the threshold </string><string-array name="enable_array">
+        <item>Disable</item>
+        <item>Enable</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="soft_focusing_value">Select the lighter</string><string-array name="pj_speed_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array><string name="label_margin_value">Select Mergine</string><string name="save_prn_path_text">Select the destination</string><string name="button_get_batteryInfo">Get Battery Info</string><string name="chkbox_multiple_select">Multiple Select</string><string name="cut_mark_title">Cut Mark</string><string name="processTimeout_title">Set overall time-out time </string><string name="special_tape_value">is special tape paper</string><string name="progress_dialog_message_close_connection">Closing the connection</string><string name="pj_paper_kind_value">Select paper kind</string><string name="progress_dialog_message_communication_start">Start communication…</string><string name="app_name">Brother Print Sdk Demo</string><string name="error_message_runtime">Runtime error occurred </string><string name="pj_density_title">PJ Density</string><string-array name="fit_to_page_values">
+        <item>ORIGINAL</item>
+        <item>FIT_TO_PAGE</item>
+        <item>SCALE</item>
+        <item>FIT_TO_PAPER</item>
+    </string-array><string name="button_settings">Settings</string><string-array name="enable_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item/>
+    </string-array><string name="search_printer">Searching…</string><string name="text_net_used_ipv6">	IPv6 usage	</string><string name="alignment_settings_value">Set the Alignment Settings</string><string name="cancel_printer_msg">Is cancelling, please wait</string><string name="progress_dialog_message_preparing_connection">Preparing the connection…</string><string name="button_cancel">Cancel</string><string name="error_message_none">Succeeded</string><string name="progress_dialog_message_sendingData">Sending the data…</string><string name="mac_address_value">Set the number of mac address </string><string-array name="bt_devicename_array">
+        <item>Not Discoverable</item>
+        <item>Discoverable</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="progress_dialog_message_dataSent">The data was sent </string><string name="text_wirelessdirect_key_create_mode">	SSID/Network Key Generation(BT/USB)	</string><string name="trim_tape_after_data_title">Cutting zero lines </string><string name="ip_mac_title">IP/MAC Address</string><string-array name="power_mode_array">
+        <item>(NO CHANGE)</item>
+        <item>Connection time priority</item>
+        <item>Standard</item>
+        <item>Power-saving mode priority</item>
+    </string-array><string name="is_end_cut_title">End Cut</string><string name="feed_mode_title">Feed mode</string><string name="text_power_saving">Power-saving</string><string name="feed_mode_value">Select how to feed paper</string><string name="text_net_ip6_staticmode">	Enable Static IPv6 Address	</string><string name="error_message_weong_os">Android OS is not supported</string><string name="is_auto_cut_value">do auto cut or not</string><string name="special_tape_title">Special tape paper(PT Only)</string><string name="progress_dialog_message_cooling_end">Printer cooling end</string><string name="paper_size_value">Select the paper size </string><string name="align_title">Align</string><string name="paper_pos_value">Select the Paper Position</string><string name="mw_series">MW Series</string><string name="text_net_communication_mode">	Communication Mode	</string><string-array name="bootmode_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item/>
+    </string-array><string name="text_select_pdf">Select a pdf file</string><string name="text_bt_isdiscoverable">	Visible to Other Devices(BT/USB)	</string><string name="save_folder_title">Save the folder</string><string name="text_template_name">Name:</string><string name="button_printer_status">Printer Status</string><string name="button_update">Set</string><string name="text_bt_bootmode">	Bluetooth on Power On(BT/USB)	</string><string name="text_net_channel">	Channel	</string><string name="connectionTimeout_value">Set connect waiting time </string><string name="overwrite_value">Select the overwrite mode </string><string name="top_margin_title">Top margin</string><string-array name="rj_density_array">
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="button_bluetooth_settings">Bluetooth Settings</string><string name="text_net_ssid">	SSID	</string><string name="pj_density_value">Select the PJ density</string><string name="printer_case_title">Printer case</string><string name="text_ipv6_setting">	IPv6 settings</string><string name="button_device_settings">Device Settings</string><string name="text_select_pdz">Select a pdz or blf file</string><string name="text_no_data">(NO DATA)</string><string name="text_transfer_manager">Manage Templates</string><string name="text_net_encryption_mode">	Encryption Mode	</string><string name="text_template_key">Template Key:</string><string name="button_multi_print">Multi Print</string><string name="halftoning_value">Select the half toning method </string><string name="fit_to_page_title">Fit to page</string><string-array name="rj_density_array_value">
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item/>
+    </string-array><string name="text_net_password">	Password(Write only)	</string><string-array name="dns_mode_array">
+        <item>AUTO</item>
+        <item>STATIC</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="text_bt_devicename">	Bluetooth Device Name(BT/USB)	</string><string name="msg_title_warning">Warning</string><string name="tethering_value">Select the tethering</string><string name="supported_device">PJ-7XX/RJ-4030Ai/RJ-2XXX</string><string-array name="rj_density_values">
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array><string name="error_message_no_usb">USB device is not found</string><string-array name="bt_devicename_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item/>
+    </string-array><string name="orientation_title">Printing orientation</string><string-array name="orientation">
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array><string name="text_net_user_Id">	User ID(Write only)	</string><string name="custom_paper_width_title">Custom Paper Width</string><string name="text_pdf_pages_start">Start Page:</string><string name="progress_dialog_message_setting_bluetooth_setting">Transferring Bluetooth settings </string><string name="progress_dialog_message_removing_template">Removing templates </string><string name="valign_title">Valign</string><string name="pj_td_settings_value">Set the RJ/TD Settings</string><string name="half_cut_title">Half Cut(PT Only)</string><string name="text_wirelessdirect_network_key">	Network Key(Write only)(BT/USB)</string><string name="text_ssp">SSP Setting</string><string name="button_remove_template">Remove Template</string><string name="close_wait_time_title">Set close waiting time</string><string name="button_add">Add</string><string-array name="communication_mode_array">
+        <item>Ad hoc</item>
+        <item>Infrastructure</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="work_path_value">Select the work path</string><string name="setting_printer">Basic Settings</string><string name="left_margin_value">Set the left margin </string><string name="sendTimeout_value">Set transmission waiting time</string><string name="text_print_jpeg_scale">	JPEG Printing Scale(BT/USB)	</string><string name="text_printer_power_off_time">	Auto Power Off	</string><string name="progress_dialog_message_startPrint">Printing the data </string><string name="custom_setting_value">Select a custom setting file</string><string name="timeout_text">Set the timeout </string><string name="port_value">Select the port</string><string name="text_bt_auto_connection">Bluetooth Auto Connection(BT/USB)</string><string name="custom_paper_length_title">Custom Paper Length</string><string name="scale_value_title">Scale value</string><string name="pj_settings_value">Set the PJ Settings</string><string name="is_peel_mode_value">Wait for peeling label</string><string name="bluetooth_printer_list_title_label">Bluetooth Printer</string><string name="button_check_media_file">Check Media File Ver</string><string name="dash_line_value">Dash Line Print</string><string name="setting_label">Settings</string><string name="mode9_title">Mode9</string><string name="check_print_end_value">Check the print end</string><string-array name="net_interface_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item/>
+    </string-array><string name="save_prn_path_title">Save prn file</string><string name="button_get_mediaver">Get Media Version</string><string-array name="check_print_end_values">
+        <item>CPE_NO_CHECK</item>
+        <item>CPE_SKIP_LAST</item>
+        <item>CPE_CHECK</item>
+    </string-array><string name="rj_density_title">Density</string><string name="button_check_firm_file">Check Firm File Ver</string><string name="progress_dialog_message_cooling_start">Printer cooling start</string><string-array name="pj_density_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="text_transfer_pdz">Transfer Template File</string><string name="button_print">Print</string><string name="text_print_density">	Print Density(BT/USB)	</string><string name="print_quality_title">Print quality</string><string-array name="valign_values">
+        <item>TOP</item>
+        <item>MIDDLE</item>
+        <item>BOTTOM</item>
+    </string-array><string name="pj_speed_title">PJ Speed</string><string-array name="yes_no_value">
+        <item>true</item>
+        <item>false</item>
+    </string-array><string name="timeout_title">Timeout</string><string name="close_connect">closeing…</string><string name="is_carbon_title">Carbon</string><string name="button_send_mediainfo">Send Media Info</string><string name="raw_mode_value">Select the raw mode</string><string name="button_get_list">Get List</string><string name="template_encoding">Encoding:</string><string-array name="net_encryptionmode_array">
+        <item>None</item>
+        <item>WEP</item>
+        <item>TKIP+AES</item>
+        <item>AES</item>
+        <item>CKIP</item>
+        <item>TKIP</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="button_get_serialnum">Get Serial Number</string><string name="text_net_gateway">	Gateway	</string><string name="text_net_subnetmask">	Subnet Mask	</string><string name="text_net_ipv6_static_address">	Static IPv6 Address	</string><string name="button_get_firmver">Get Firm Version</string><string name="button_get_systemreport">Get System Report</string><string name="cutSettingsPT_P3_title">PT-P3 Cut Settings</string><string name="text_input_data">Input Data:</string><string name="valign_value">Select the valign</string><string name="pj_paper_kind_title">Paper Kind</string><string-array name="net_encryptionmode_array_value">
+        <item>1</item>
+        <item>2</item>
+        <item>8</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item/>
+    </string-array><string-array name="ip_address_array_value">
+        <item>0</item>
+        <item>5</item>
+        <item>3</item>
+        <item>6</item>
+        <item>7</item>
+        <item/>
+    </string-array><string name="printer_model_value">Select the printer model </string><string name="text_device_setting">Device Settings</string><string-array name="pj_density_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item/>
+    </string-array><string name="address_title">IP address</string><string name="about_text">Ver.3.0.13\n© 2018 Brother Industries, Ltd.\n</string><string name="custom_feed_value">Set Length of Feeding Paper</string><string-array name="printer_case_values">
+        <item>PJ_ROLLCASE_OFF</item>
+        <item>PJ_ROLLCASE_ON</item>
+        <item>PJ_ROLLCASE_WITH_ANTICURL</item>
+    </string-array><string name="text_printer_setting">Printer settings</string><string name="save_folder_text">Select the folder</string><string-array name="fitToPage">
+        <item>ORIGINAL</item>
+        <item>FIT_TO_PAGE</item>
+        <item>CUSTOM</item>
+        <item>FIT_TO_PAPER</item>
+    </string-array><string-array name="authentication_method_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item/>
+    </string-array><string-array name="key_create_mode_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item/>
+    </string-array><string name="number_of_copies_title">Number of copies</string><string name="menu_settings">Settings</string><string name="chkbox_all_pages">All pages</string><string name="no_network_device">No Net Printer Found</string><string name="orientation_value">Select the printing orientation </string><string name="alignment_settings_title">Alignment Settings</string><string name="text_net_second_dns_ipv4address">	Secondary DNS Server IP Address	</string><string name="text_net_primary_dns_ipv4address">	Primary DNS Server IP Address	</string><string name="soft_focusing_title">Lighter</string><string name="text_printer_power_off_time_battery">	Auto Power Off(Li-ion)	</string><string name="progress_dialog_message_set_paper">Please Set Paper</string><string-array name="orientation_values">
+        <item>PORTRAIT</item>
+        <item>LANDSCAPE</item>
+    </string-array><string name="text_net_nodenam">	Node Name	</string><string-array name="dns_mode_array_value">
+        <item>2</item>
+        <item>1</item>
+        <item/>
+    </string-array><string name="battery_full">Full</string><string name="about_title">Brother Print Sdk Demo</string><string name="text_net_bootmode">	Network Settings on Power On(BT/USB)	</string><string-array name="ssp_array">
+        <item>(NO CHANGE)</item>
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array><string name="file_explorer_title">File Explorer</string><string name="cut_settings_value">Set the Cut Settings</string><string name="text_wirelessdirect_ssid">	SSID(BT/USB)	</string><string name="cut_mark_value">do cut mark or not</string><string name="printer_title">Printer</string><string name="button_delete">Delete</string><string name="paper_size_title">Paper size</string><string-array name="jpeg_halftone_array_value">
+        <item>0</item>
+        <item>1</item>
+        <item/>
+    </string-array><string name="error_input">wrong input</string><string name="battery_middle">Middle</string><string name="battery_charge">Need charging</string><string name="text_net_authentication_method">	Authentication Method	</string><string name="button_ok">OK</string><string name="text_net_priority_ipv6">	Priority on IPv6 address	</string><string name="text_print_pdf">Print Pdf File</string><string name="is_skip_status_check_title">Skip Status Check</string><string name="image_thresholding_title">Threshold of simple binary</string><string name="text_net_passphrase">	Passphrase(Write only)	</string><string name="text_net_ip4_staticmode">	Enable static IP Address	</string><string name="use_legacy_halftone_engine_value">Select the Use legacy halftone engine</string><string-array name="align">
+        <item>LEFT</item>
+        <item>CENTER</item>
+        <item>RIGHT</item>
+    </string-array><string name="text_pdf_pages_end">End Page:</string><string name="is_rotate180_value">Rotate 180</string><string name="top_margin_value">Set the top margin </string><string name="receiveTimeout_value">Set reception waiting time </string><string name="button_select">Select</string><string name="progress_dialog_message_createData">Creating the data</string><string name="button_update_firm">Update Firm</string><string name="trim_tape_after_data_value">Select the cutting zero lines</string><string name="button_send_binfile">Send File</string><string name="ip_mac_value">Set the IP/MAC Address</string><string-array name="net_interface_array">
+        <item>OFF</item>
+        <item>Wireless LAN</item>
+        <item>Wireless Direct</item>
+        <item>Wireless LAN and Wireless Direct</item>
+        <item>@string/text_no_data</item>
+    </string-array><string-array name="jpeg_halftone_array">
+        <item>Binary	</item>
+        <item>	Error Diffusion	</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="progress_dialog_message_getting_template">Getting template list </string><string name="pj_settings_title">PJ Settings</string><string name="text_print_speed">	Print Speed(BT/USB)	</string><string-array name="pj_density_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array><string name="text_bluetooth_setting">Bluetooth settings</string><string name="netPrinterListTitle_label">Net Printer</string><string name="close_wait_time_value">Close Time-out period</string><string name="half_cut_value">do half cut or not</string><string name="align_value">Select the align</string><string name="processTimeout_value">Time-out period</string><string-array name="valign">
+        <item>TOP</item>
+        <item>MIDDLE</item>
+        <item>BOTTOM</item>
+    </string-array><string name="text_net_interface">	Selected Interface(BT/USB)</string><string name="use_legacy_halftone_engine_title">Use legacy halftone engine</string><string name="button_refresh">Refresh</string><string name="mac_address_title">MAC address</string><string name="end_message">Back to Launcher</string><string name="unable_access">Unable Access…</string><string name="is_skip_status_check_value">Select Skip Status Check mode</string><string name="custom_setting_title">Custom Setting</string><string name="text_net_dns_ipv4_bootmethod">	Boot Method	</string><string name="text_net_ipv6address_list">	IPv6 Address List(Read only)		</string><string name="text_print_template">Print Template</string><string name="progress_dialog_message_sending_template">File transferring</string><string name="text_net_ipv4_static_address">	IP Address	</string><string name="text_wirelessdirect_setting">Wireless Direct settings</string><string name="button_select_file">Select File</string><string name="button_printer_settings">Printer Settings</string><string name="work_path_title">Work Folder</string><string name="button_get">Get</string><string-array name="authentication_method_array">
+        <item>Open System</item>
+        <item>Shared Key</item>
+        <item>WPA/WPA2-PSK	</item>
+        <item>LEAP CKIP	</item>
+        <item>EAP-FAST/NONE	</item>
+        <item>EAP-FAST/MS-CHAPv2</item>
+        <item>EAP-FAST/GTC</item>
+        <item>PEAP/MS-CHAPv2</item>
+        <item>PEAP/GTC</item>
+        <item>EAP-TTLS/CHAP</item>
+        <item>EAP-TTLS/MS-CHAP</item>
+        <item>EAP-TTLS/MS-CHAPv2</item>
+        <item>EAP-TTLS/PAP TKIP</item>
+        <item>EAP-TLS</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="fit_to_page_value">Select if fitting to page </string><string-array name="print_quality_array">
+        <item>LOW_RESOLUTION</item>
+        <item>NORMAL</item>
+        <item>DOUBLE_SPEED</item>
+        <item>HIGH_RESOLUTION</item>
+    </string-array><string-array name="key_create_mode_array">
+        <item>STATIC</item>
+        <item>AUTO</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="label_margin_title">Mergine</string><string name="progress_dialog_message_waiting_peel">Wait for peeling label</string><string name="custom_paper_length_value">Set the Length of custom Paper </string><string-array name="ip_address_array">
+        <item>AUTO</item>
+        <item>BOOTP</item>
+        <item>DHCP</item>
+        <item>RARP</item>
+        <item>STATIC</item>
+        <item>@string/text_no_data</item>
+    </string-array><string-array name="work_path_entries">
+        <item>Unspecified</item>
+        <item>In-app folder</item>
+        <item>External folder </item>
+    </string-array><string name="no_bluetooth_device">No Bluetooth Printer Found</string><string name="text_net_second_dns_ipv6address">	Secondary DNS Server IPv6 Address	</string><string name="custom_paper_width_value">Set the Width of custom Paper </string><string name="text_net_primary_dns_ipv6address">	Primary DNS Server IPv6 Address	</string><string name="left_margin_title">Left margin</string><string name="text_template_replace_texts">Replace Texts:</string><string-array name="communication_mode_array_value">
+        <item>2</item>
+        <item>1</item>
+        <item/>
+    </string-array><string-array name="chanel_array_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item/>
+    </string-array><string-array name="print_quality_value">
+        <item>LOW_RESOLUTION</item>
+        <item>NORMAL</item>
+        <item>DOUBLE_SPEED</item>
+        <item>HIGH_RESOLUTION</item>
+    </string-array><string name="end_title">End</string><string name="paper_pos_title">Paper Position</string><string-array name="feed_mode_values">
+        <item>PJ_FEED_MODE_FREE</item>
+        <item>PJ_FEED_MODE_FIXEDPAGE</item>
+        <item>PJ_FEED_MODE_ENDOFPAGE</item>
+        <item>PJ_FEED_MODE_ENDOFPAGERETRACT</item>
+    </string-array><string-array name="printer_case">
+        <item>PJ_ROLLCASE_OFF</item>
+        <item>PJ_ROLLCASE_ON</item>
+        <item>PJ_ROLLCASE_WITH_ANTICURL</item>
+    </string-array><string name="is_carbon_value">Select the carbon</string><string name="printer_case_value">Select the printer case</string><string name="is_auto_cut_title">Auto Cut</string><string name="printer_text">Select a destination printer</string><string name="pj_td_settings_title">RJ/TD Settings</string><string name="ac_adapter">AC adapter</string><string name="button_next_print">Next Template</string><string name="connectionTimeout_title">Connect waiting time</string><string name="printer_model_title">PrinterModel</string><string-array name="alignValues">
+        <item>LEFT</item>
+        <item>CENTER</item>
+        <item>RIGHT</item>
+    </string-array><string name="text_select_image">Select image/prn file</string><string name="cutSettingsPT_P3_value">Set the Cut Settings</string><string name="is_end_cut_value">do end cut or not</string></file><file path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\values-ja\strings.xml" qualifiers="ja"><string name="orientation_title">用紙方向</string><string name="supported_device">PJ-700/RJ-4030Ai/RJ-2000</string><string name="custom_paper_length_value">カスタマイズ紙の長を指定してください</string><string name="text_pdf_pages_end">終了ページ</string><string name="scale_value_value">拡大率を指定してください </string><string name="align_value">横アラインメントを設定してください</string><string name="button_bluetooth_settings">Bluetooth設定</string><string-array name="bootmode_array">
+        <item>常にON</item>
+        <item>常にOFF</item>
+        <item>前回の状態維持</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="button_device_settings">デバイス設定</string><string name="file_explorer_title">ファイル　エクスプローラ</string><string name="button_printer_status">プリンターステータス</string><string name="end_message">起動画面に戻る</string><string name="text_net_communication_mode">接続モード	</string><string name="progress_dialog_message_sending_template">ファイルを転送しています</string><string name="progress_dialog_message_sendingPrintingData">印刷データを送信しています</string><string name="custom_paper_width_title">カスタマイズ紙の幅</string><string name="text_net_ipv6_static_address">固定IPv6アドレス	</string><string name="progress_dialog_message_communication_start">通信開始…</string><string name="button_network_settings">ネットワーク設定</string><string name="halftoning_title">ハーフトーン</string><string name="button_next_print">次のページ</string><string name="address_value">IPアドレスを設定してください</string><string name="custom_setting_title">カスタマイズ用紙設定</string><string name="text_no_data">(NO DATA)</string><string name="raw_mode_value">非圧縮を使用する場合はONにしてください</string><string name="text_print_jpeg_scale">	JPEG印刷倍率設定(BT/USB)	</string><string name="text_device_setting">デバイス設定</string><string name="printer_case_value">プリンタケースを設定してください</string><string name="ip_mac_title">IP/MAC アドレス</string><string name="top_margin_title">上マージン値</string><string name="printer_model_value">プリンターモデルを選択して下さい </string><string name="about_label">About</string><string name="pj_speed_title">PJ印字速度</string><string name="dash_line_value">ミシン目印刷</string><string name="battery_middle">中</string><string-array name="fitToPage">
+        <item>オリジナルサイズ</item>
+        <item>ページに合わせる</item>
+        <item>数字指定</item>
+        <item>用紙に合わせる</item>
+    </string-array><string name="error_message_none">成功しました</string><string name="cut_mark_value">カットマークの指定</string><string name="is_carbon_title">複写紙</string><string name="close_wait_time_title">切断処理前の待ち時間を設定してください</string><string name="progress_dialog_message_cooling_end">クーリング完了</string><string name="error_message_runtime">実行時エラーが発生しました</string><string name="tethering_value">テザリングを有効にする場合はONにしてください</string><string-array name="yes_no_entries">
+        <item>はい</item>
+        <item>いいえ</item>
+    </string-array><string name="special_tape_value">特殊テープの指定</string><string name="pj_td_settings_value">RJ/TDを設定してください</string><string name="processTimeout_title">タイムアウト 時間</string><string name="text_printer_power_off_time">オートパワーオフ時間	</string><string name="label_margin_title">余白設定</string><string name="valign_title">縦アラインメント</string><string name="use_legacy_halftone_engine_title">レガシーなハーフトーン処理を行う</string><string-array name="authentication_method_array">
+        <item>Open System</item>
+        <item>Shared Key</item>
+        <item>WPA/WPA2-PSK	</item>
+        <item>LEAP CKIP	</item>
+        <item>EAP-FAST/NONE	</item>
+        <item>EAP-FAST/MS-CHAPv2</item>
+        <item>EAP-FAST/GTC</item>
+        <item>PEAP/MS-CHAPv2</item>
+        <item>PEAP/GTC</item>
+        <item>EAP-TTLS/CHAP</item>
+        <item>EAP-TTLS/MS-CHAP</item>
+        <item>EAP-TTLS/MS-CHAPv2</item>
+        <item>EAP-TTLS/PAP TKIP</item>
+        <item>EAP-TLS</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="mac_address_value">MACアドレスを設定してください</string><string name="pj_paper_kind_title">用紙種類</string><string name="is_skip_status_check_value">ステータスチェックをスキップする場合はONにしてください</string><string name="text_net_passphrase">	PSK(事前共有キー)(設定のみ)	</string><string name="sendTimeout_title">送信待ち時間 </string><string name="text_remove_template">テンプレート削除</string><string name="progress_dialog_message_setting_bluetooth_setting">Bluetooth設定を送信しています</string><string name="is_end_cut_value">エンドカットをする</string><string name="button_update">更新</string><string name="button_add">追加</string><string-array name="ssp_array">
+        <item>未設定</item>
+        <item>有効</item>
+        <item>無効</item>
+    </string-array><string name="save_prn_path_title">印刷ファイル保存先</string><string name="menu_settings">設定</string><string name="progress_dialog_message_removing_template">テンプレートを削除しています </string><string name="number_of_copies_title">印刷部数</string><string name="text_transfer_manager">転送マネージャ</string><string-array name="ip_address_array">
+        <item>AUTO</item>
+        <item>BOOTP</item>
+        <item>DHCP</item>
+        <item>RARP</item>
+        <item>STATIC</item>
+        <item>@string/text_no_data</item>
+    </string-array><string-array name="net_encryptionmode_array">
+        <item>None</item>
+        <item>WEP</item>
+        <item>TKIP+AES</item>
+        <item>AES</item>
+        <item>CKIP</item>
+        <item>TKIP</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="button_get_list">一覧取得</string><string name="bluetooth_printer_list_title_label">Bluetoothプリンタ</string><string name="button_refresh">更新</string><string name="text_wirelessdirect_key_create_mode">	SSID/ネットワークキー生成(BT/USB)	</string><string name="feed_mode_value">排紙方式を設定してください</string><string-array name="bt_devicename_array">
+        <item>検索できない</item>
+        <item>検索できる</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="progress_dialog_message_cooling_start">クーリング開始</string><string name="text_net_second_dns_ipv4address">	セカンダリDNSサーバーアドレス	</string><string name="button_settings">設定</string><string name="text_not_exit_template">テンプレートが存在しません</string><string name="port_value">ポートを選択してください</string><string name="button_cancel">キャンセル</string><string name="cut_settings_title">カットオプション</string><string name="text_net_encryption_mode">暗号化方式</string><string name="text_template_name">名前指定:</string><string name="button_transfer_template">テンプレート転送</string><string name="close_message">アプリケーションを閉じる</string><string name="text_net_nodenam">	無線LANノード名	</string><string name="button_get">取得</string><string name="receiveTimeout_title">受信待ち時間</string><string name="image_thresholding_title">単純二値閾値</string><string name="text_wirelessdirect_network_key">	ネットワークキー(設定のみ)(BT/USB)	</string><string name="text_net_used_ipv6">IPv6有効/無効	</string><string name="button_get_serialnum">シリアルナンバー</string><string-array name="print_quality_array">
+        <item>ドラフト印刷</item>
+        <item>高品質</item>
+        <item>高速</item>
+        <item>高解像度印刷</item>
+    </string-array><string name="text_net_dns_ipv4_bootmethod">DNSサーバー手動設定</string><string name="msg_title_warning">警告</string><string name="feed_mode_title">排紙方式</string><string name="text_net_password">	パスワード(設定のみ)	</string><string name="receiveTimeout_value">受信時のタイムアウト時間を設定してください </string><string name="work_path_value">作業フォルダを指定する</string><string name="half_cut_title">ハーフカット(PT専用)</string><string name="text_net_ssid">SSID</string><string-array name="communication_mode_array">
+        <item>アドホック</item>
+        <item>インフラストラクチャ</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="timeout_text">タイムアウトを選択してください </string><string name="cutSettingsPT_P3_value">カットオプションを設定してください</string><string-array name="check_print_end">
+        <item>確認しない</item>
+        <item>最終ページのみ確認しない</item>
+        <item>毎ページ確認する</item>
+    </string-array><string name="cut_settings_value">カットオプションを設定してください</string><string name="alignment_settings_title">マージン 設定</string><string name="check_print_end_title">印刷後のステータス確認</string><string name="text_net_ip6_staticmode">固定IPv6アドレス有効/無効</string><string name="custom_feed_title">排紙量設定</string><string name="cancel_printer_msg">キャンセルを処理しています、待ってください</string><string name="text_net_primary_dns_ipv6address">プライマリDNSサーバーアドレス	</string><string name="overwrite_value">保存時に上書きするか選択してください</string><string name="fit_to_page_title">印刷サイズ</string><string-array name="orientation">
+        <item>縦</item>
+        <item>横</item>
+    </string-array><string name="battery_full">多</string><string name="progress_dialog_message_preparing_connection">接続の準備をしています</string><string name="print_quality_title">高解像度モード</string><string name="connectionTimeout_title">接続開始待ち時間</string><string name="processTimeout_value">全体のタイムアウト時間を設定してください</string><string name="progress_dialog_message_startPrint">ページ印刷中 </string><string name="setting_printer">基本設定</string><string name="text_power_saving">省電力モード</string><string name="netPrinterListTitle_label">ネットプリンター</string><string name="paper_size_title">用紙サイズ</string><string name="pj_density_title">PJ印字濃度</string><string name="paper_pos_value">給紙位置を設定してください</string><string name="trim_tape_after_data_value">後部余白カットをする場合はONにしてください</string><string name="text_net_ip4_staticmode">固定IPアドレス有効/無効	</string><string name="text_transfer_pdz">テンプレート転送</string><string name="text_net_ipv6address_list">	IPv6アドレスリスト(取得のみ)</string><string name="chkbox_multiple_select">複数ファイル選択</string><string name="pj_settings_value">PJを設定してください</string><string name="button_get_batteryInfo">バッテリー情報</string><string name="button_get_firmver">ファームバージョン</string><string name="button_multi_print">連続印刷</string><string name="text_bt_devicename">	デバイス名(BT/USB)	</string><string name="sendTimeout_value">送信待ち時間を設定してください</string><string name="save_folder_title">保存フォルダ</string><string name="printer_case_title">プリンタケース</string><string name="otherSettings_title">その他</string><string name="end_title">終了</string><string name="mode9_title">Mode9</string><string name="button_get_mediaver">メディアバージョン</string><string name="is_auto_cut_value">オートカットする</string><string name="text_template_key">テンプレート キー:</string><string name="text_net_ipv4_static_address">	IPアドレス	</string><string name="text_net_subnetmask">	サブネットマスク	</string><string name="rj_density_value">印字濃度を設定してください</string><string-array name="chanel_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="about_text">Ver.3.0.13\n© 2018 Brother Industries, Ltd.\n</string><string-array name="halfToning">
+        <item>単純２値</item>
+        <item>パターンディザ</item>
+        <item>誤差拡散</item>
+    </string-array><string name="error_input">入力データは間違いです</string><string-array name="jpeg_halftone_array">
+        <item>Binary	</item>
+        <item>	Error Diffusion	</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="left_margin_value">左マージン値を設定してください</string><string name="button_send_mediainfo">媒体情報送信</string><string name="chkbox_all_pages">全てのページ</string><string name="scale_value_title">倍率</string><string name="orientation_value">用紙方向を選択してください</string><string name="custom_paper_length_title">カスタマイズ紙の長</string><string-array name="alignValues">
+        <item>LEFT</item>
+        <item>CENTER</item>
+        <item>RIGHT</item>
+    </string-array><string-array name="power_mode_array">
+        <item>未設定</item>
+        <item>省電力優先</item>
+        <item>標準</item>
+        <item>接続時間優先</item>
+    </string-array><string name="align_title">横アラインメント</string><string name="text_net_bootmode">	パワーオン時動作	(BT/USB)</string><string name="pj_td_settings_title">RJ/TD 設定</string><string name="no_network_device">ネットプリンターが見つかりません</string><string name="text_template_replace_texts">文字列置換:</string><string name="address_title">IPアドレス</string><string name="search_printer">検索…</string><string name="error_message_no_usb">USBデバイスが見つかりません</string><string name="button_select_file">ファイル選択</string><string name="custom_setting_value">カスタマイズ用紙をを指定してください</string><string name="raw_mode_title">非圧縮</string><string name="halftoning_value">ハーフトーンの種類を選択して下さい </string><string name="button_check_media_file">Mediaファイルバージョン</string><string name="port_title">ポート</string><string name="text_net_interface">	インターフェース選択(BT/USB)	</string><string name="ac_adapter">AC アダプタ</string><string name="progress_dialog_message_dataSent">データを送信しました</string><string name="printer_model_title">プリンターモデル</string><string name="template_encoding">エンコード:</string><string name="progress_dialog_message_waiting_peel">ラベルを剥離してください</string><string-array name="work_path_entries">
+        <item>指定なし</item>
+        <item>アプリケーション領域</item>
+        <item>外部フォルダ</item>
+    </string-array><string-array name="dns_mode_array">
+        <item>AUTO</item>
+        <item>STATIC</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="progress_dialog_message_close_connection">通信終了</string><string-array name="align">
+        <item>左寄せ</item>
+        <item>中寄せ</item>
+        <item>右寄せ</item>
+    </string-array><string name="save_file_title">保存ファイル</string><string name="label_margin_value">余白の指定</string><string name="text_print_speed">印刷速度(BT/USB)			</string><string name="valign_value">縦アラインメントを設定してください</string><string name="setting_label">設定</string><string name="progress_dialog_message_printed">印刷を終了しました </string><string name="text_select_pdz">pdzかblfファイルを選択してください</string><string name="text_bt_auto_connection">	Bluetoothの再接続(BT/USB)	</string><string name="progress_dialog_message_set_paper">紙をセットしてください</string><string-array name="feed_mode">
+        <item>排紙なし（ロール）</item>
+        <item>固定サイズ排紙（ロール）</item>
+        <item>一ページ排紙（カット紙）</item>
+        <item>一ページ排紙（マークつきロール）</item>
+    </string-array><string name="button_delete">削除</string><string name="text_select_pdf">pdfファイルを選択してください</string><string-array name="net_interface_array">
+        <item>OFF</item>
+        <item>無線LAN</item>
+        <item>Wireless Direct</item>
+        <item>無線LANとWireless Directを有効</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="use_legacy_halftone_engine_value">レガシーなハーフトーン処理を行う場合はONにしてください</string><string name="is_rotate180_title">回転 180</string><string name="button_ok">OK</string><string name="app_name">Brother Print Sdk Demo</string><string name="pj_speed_value">PJ印字速度を設定してください</string><string name="text_net_wepkey">	WEPキー(設定のみ)	</string><string name="printer_title">接続先プリンター</string><string-array name="printer_case">
+        <item>無効</item>
+        <item>有効（アンチカールなし）</item>
+        <item>有効（アンチカールあり、ショートフィード有効）</item>
+    </string-array><string name="custom_paper_width_value">カスタマイズ紙の幅を指定してください</string><string name="close_connect">クローズ…</string><string name="special_tape_title">特殊テープ(PT専用)</string><string name="print_quality_value">解像度設定を行う選択してください</string><string name="text_net_user_Id">	ユーザID(設定のみ)	</string><string name="close_wait_time_value">切断処理前の待ち時間</string><string name="overwrite_title">上書き設定</string><string name="tethering_title">テザリング</string><string name="button_get_systemreport">自己印字文字列</string><string name="custom_feed_value">排紙量を設定してください</string><string name="is_skip_status_check_title">ステータスチェックのスキップ</string><string name="is_peel_mode_title">ハクリモード</string><string name="pj_paper_kind_value">用紙種類を選択してください</string><string name="soft_focusing_title">淡化処理</string><string name="button_printer_settings">プリンター設定</string><string name="text_template_Index">番号指定:</string><string name="soft_focusing_value">淡化処理を行う場合はONにしてください</string><string name="progress_dialog_message_getting_bluetooth_setting">Bluetooth設定を取得しています </string><string name="is_peel_mode_value">ハクリする</string><string name="left_margin_title">左マージン値</string><string name="button_select">選択</string><string name="mw_series">MWシリーズ</string><string name="text_print_density">	印字濃度(BT/USB)</string><string name="work_path_title">作業フォルダ</string><string name="connectionTimeout_value">接続開始待ち時間を設定してください</string><string name="folder_name">フォルダ名</string><string name="check_print_end_value">印刷後にステータス確認を行う選択してください</string><string name="text_template_text">テキスト:</string><string name="progress_dialog_message_sendingData">通信中…</string><string name="fit_to_page_value">印刷サイズを選択して下さい</string><string name="save_folder_text">保存フォルダを選択してください </string><string name="is_auto_cut_title">オートカット</string><string name="button_check_firm_file">Firmファイルバージョン</string><string name="image_thresholding_value">単純二値の閾値を設定してください </string><string name="text_net_channel">チャンネル</string><string name="mode9_value">Mode9を設定してください</string><string name="number_of_copies_value">印刷部数を設定してください</string><string name="text_print_jpeg_halftone">	JPEG印刷(BT/USB)	</string><string name="battery_weak">小</string><string name="battery_charge">要充電</string><string name="text_net_primary_dns_ipv4address">プライマリDNSサーバーアドレス	</string><string name="printer_text">接続先プリンターを選択してください </string><string name="progress_dialog_message_createData">データ作成中</string><string name="is_rotate180_value">回転 180</string><string name="text_net_authentication_method">認証方式</string><string name="button_print">印刷</string><string name="save_prn_path_text">印刷ファイルの保存先を選択してください </string><string name="text_input_data">入力データ:</string><string name="unable_access">アクセスできません</string><string name="text_net_priority_ipv6">IPv6優先</string><string name="trim_tape_after_data_title">後部余白カット</string><string name="pj_settings_title">PJ 設定</string><string name="text_print_pdf">Pdf ファイルプリント</string><string name="text_print_image">Image/Prn ファイルプリント</string><string name="mac_address_title">MACアドレス</string><string name="text_bt_bootmode">	Bluetoothの起動状態(BT/USB)	</string><string name="pj_density_value">PJ印字濃度を設定してください</string><string name="is_end_cut_title">エンドカット</string><string name="paper_size_value">用紙サイズを選択してください</string><string name="timeout_title">タイムアウト</string><string name="text_print_template">テンプレートプリント</string><string-array name="valign">
+        <item>上寄せ</item>
+        <item>中寄せ</item>
+        <item>下寄せ</item>
+    </string-array><string name="text_printer_power_off_time_battery">	オートパワーオフ時間(バッテリ)	</string><string name="rj_density_title">印字濃度</string><string name="text_net_gateway">	ゲートウェイアドレス	</string><string name="button_remove_template">テンプレート削除</string><string name="dash_line_title">ミシン目印刷</string><string name="text_bt_isdiscoverable">他のデバイス検索設定(BT/USB)</string><string name="ip_mac_value">IP/MAC アドレスを設定してください</string><string name="text_ssp">SSP設定</string><string name="cut_mark_title">カットマーク</string><string name="no_bluetooth_device">Bluetoothプリンターが見つかりません</string><string name="top_margin_value">上マージン値を設定してください </string><string name="cutSettingsPT_P3_title">PT-P3用カットオプション</string><string name="half_cut_value">ハーフカットの指定</string><string name="error_message_weong_os">Android OSは対応されていません</string><string name="progress_dialog_message_transfer_start">転送スタート…</string><string name="text_select_image">image/prnファイルを選択してください</string><string-array name="enable_array">
+        <item>無効</item>
+        <item>有効</item>
+        <item>@string/text_no_data</item>
+    </string-array><string name="button_send_binfile">ファイル送信</string><string name="text_wirelessdirect_ssid">	SSID(BT/USB)	</string><string name="text_net_second_dns_ipv6address">セカンダリDNSサーバーアドレス	</string><string name="progress_dialog_message_getting_template">テンプレート一覧を取得しています </string><string name="paper_pos_title">給紙位置</string><string name="button_update_firm">ファームアップデート</string><string name="about_title">Brother Print Sdk Demo</string><string name="alignment_settings_value">マージンを設定してください</string><string name="text_pdf_pages_start">開始ページ</string><string name="is_carbon_value">複写紙を設定してください</string></file><file name="bluetooth_settings" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\xml\bluetooth_settings.xml" qualifiers="" type="xml"/><file name="net_settings" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\xml\net_settings.xml" qualifiers="" type="xml"/><file name="printer_settings" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\xml\printer_settings.xml" qualifiers="" type="xml"/><file name="settings" path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\main\res\xml\settings.xml" qualifiers="" type="xml"/></source><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\build\generated\res\rs\debug"/><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\shobh\Desktop\bpsdka3013\bpsdka3013\bpsdka3013\Samples\app\src\debug\res"/></dataSet><mergedItems/></merger>

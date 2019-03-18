@@ -1,0 +1,7 @@
+#Sun Mar 17 13:44:21 CDT 2019
+base.0=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8b39c6c7162bc0eb13bf0423d45646ac66106bdb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_42dc51d6d1a58e171183eb073aeace007489bee6\\classes.dex
+base.1=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_42dc51d6d1a58e171183eb073aeace007489bee6
+file.0=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8b39c6c7162bc0eb13bf0423d45646ac66106bdb\\classes.dex

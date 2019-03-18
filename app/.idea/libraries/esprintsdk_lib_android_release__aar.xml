@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="esprintsdk-lib-android-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/1949dfbe47c627900a8ff13495a13bbb3a09d6ec/output/jars/libs/MobilePrintLib.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1949dfbe47c627900a8ff13495a13bbb3a09d6ec/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1949dfbe47c627900a8ff13495a13bbb3a09d6ec/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

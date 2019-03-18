@@ -1,0 +1,13 @@
+#Sun Mar 17 13:34:21 CDT 2019
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.3=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9ee1477cf319154f60e2838a3579e4f1bddf91cd
+base.2=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\kotlin-stdlib-1.3.21_43dd2398f02cec801fbb3a325f877b37740e047f
+base.1=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\annotations-13.0_c96a7d957553a25019b15a95a03c9d86d1b09146
+base.0=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\MobilePrintLib_34a95fa099bfd0f1a715664b96ef2fe578d6432f
+file.3=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9ee1477cf319154f60e2838a3579e4f1bddf91cd\\classes.dex
+file.2=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\kotlin-stdlib-1.3.21_43dd2398f02cec801fbb3a325f877b37740e047f\\classes.dex
+file.1=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\annotations-13.0_c96a7d957553a25019b15a95a03c9d86d1b09146\\classes.dex
+file.0=C\:\\Users\\shobh\\Desktop\\bpsdka3013\\bpsdka3013\\bpsdka3013\\Samples\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\MobilePrintLib_34a95fa099bfd0f1a715664b96ef2fe578d6432f\\classes.dex
